@@ -106,6 +106,5 @@ int main() {
         if (r == 'n'){
             cout << "Thanks for playing!";
         }
-    }
-    return 0;                                              //if no return statement then it will generate enless loop
+    }                                            //if no return statement then it will generate enless loop
 }
